@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juanmiitaklk
+- 👋 Hi, I’m @juanmiita
 - 👀 I’m interested in JavaScript, Java, Python and more
 - 🌱 I’m currently learning JS, C and Jsp
 
